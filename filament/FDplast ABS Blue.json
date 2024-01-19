@@ -1,0 +1,37 @@
+{
+    "default_filament_colour": [
+        "#0000A0"
+    ],
+    "filament_cost": [
+        "1188"
+    ],
+    "filament_density": [
+        "1.05"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "FDplast ABS Blue"
+    ],
+    "filament_vendor": [
+        "FDplast"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "My Generic ABS",
+    "is_custom_defined": "0",
+    "name": "FDplast ABS Blue",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "version": "1.9.0.2"
+}

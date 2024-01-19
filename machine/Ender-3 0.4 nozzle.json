@@ -1,0 +1,78 @@
+{
+    "bed_exclude_area": [],
+    "before_layer_change_gcode": "",
+    "deretraction_speed": [
+        "0"
+    ],
+    "emit_machine_limits_to_gcode": "0",
+    "extruder_clearance_height_to_lid": "0",
+    "extruder_clearance_height_to_rod": "0",
+    "extruder_clearance_radius": "0",
+    "from": "User",
+    "inherits": "MyKlipper 0.4 nozzle",
+    "is_custom_defined": "0",
+    "layer_change_gcode": "",
+    "machine_end_gcode": "END_PRINT",
+    "machine_max_acceleration_e": [
+        "10000",
+        "5000"
+    ],
+    "machine_max_acceleration_extruding": [
+        "600",
+        "20000"
+    ],
+    "machine_max_acceleration_retracting": [
+        "600",
+        "5000"
+    ],
+    "machine_max_acceleration_x": [
+        "600",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "600",
+        "20000"
+    ],
+    "machine_max_speed_e": [
+        "120",
+        "25"
+    ],
+    "machine_max_speed_x": [
+        "140",
+        "200"
+    ],
+    "machine_max_speed_y": [
+        "140",
+        "200"
+    ],
+    "machine_start_gcode": "START_PRINT EXTRUDER_TEMP=[first_layer_temperature] BED_TEMP=[first_layer_bed_temperature] CALIBRATE=Y",
+    "manual_filament_change": "1",
+    "name": "Ender-3 0.4 nozzle",
+    "nozzle_type": "brass",
+    "print_host": "192.168.1.100",
+    "printable_area": [
+        "0x0",
+        "232x0",
+        "232x210",
+        "0x210"
+    ],
+    "printer_notes": "95x90,95x120,135x120,135x90",
+    "printer_settings_id": "Ender-3 0.4 nozzle",
+    "retract_when_changing_layer": [
+        "0"
+    ],
+    "retraction_length": [
+        "0.5"
+    ],
+    "retraction_minimum_travel": [
+        "1.5"
+    ],
+    "retraction_speed": [
+        "80"
+    ],
+    "thumbnails": "32x32/PNG, 400x300/PNG",
+    "version": "1.9.0.2",
+    "z_hop": [
+        "0"
+    ]
+}

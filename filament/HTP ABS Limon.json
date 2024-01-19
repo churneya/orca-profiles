@@ -1,0 +1,43 @@
+{
+    "default_filament_colour": [
+        "#80FF00"
+    ],
+    "fan_max_speed": [
+        "0"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_cost": [
+        "896"
+    ],
+    "filament_density": [
+        "1.05"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "HTP ABS Limon"
+    ],
+    "filament_vendor": [
+        "Hi-Tech Plast"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "My Generic ABS",
+    "is_custom_defined": "0",
+    "name": "HTP ABS Limon",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "version": "1.9.0.2"
+}

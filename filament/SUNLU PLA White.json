@@ -1,0 +1,49 @@
+{
+    "close_fan_the_first_x_layers": [
+        "0"
+    ],
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "70"
+    ],
+    "fan_min_speed": [
+        "70"
+    ],
+    "filament_cost": [
+        "896"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "SUNLU PLA White"
+    ],
+    "filament_vendor": [
+        "SUNLU"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "4"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "SUNLU PLA White",
+    "nozzle_temperature": [
+        "190"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "190"
+    ],
+    "pressure_advance": [
+        "0.018"
+    ],
+    "version": "1.9.0.2"
+}

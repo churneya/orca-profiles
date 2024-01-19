@@ -1,0 +1,10 @@
+{
+    "filament_settings_id": [
+        "My ABS"
+    ],
+    "from": "User",
+    "inherits": "My Generic ABS",
+    "is_custom_defined": "0",
+    "name": "My ABS",
+    "version": "1.9.0.2"
+}

@@ -1,0 +1,28 @@
+{
+    "default_filament_colour": [
+        "#0F2DFF"
+    ],
+    "fan_cooling_layer_time": [
+        "70"
+    ],
+    "fan_max_speed": [
+        "70"
+    ],
+    "fan_min_speed": [
+        "70"
+    ],
+    "filament_settings_id": [
+        "FDPlast TPU Blue"
+    ],
+    "from": "User",
+    "inherits": "My Generic TPU",
+    "is_custom_defined": "0",
+    "name": "FDPlast TPU Blue",
+    "nozzle_temperature": [
+        "190"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "190"
+    ],
+    "version": "2.1.1.0"
+}
