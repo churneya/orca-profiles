@@ -17,6 +17,7 @@
     "internal_bridge_speed": "0",
     "internal_solid_infill_speed": "50",
     "is_custom_defined": "0",
+    "min_skirt_length": "50",
     "name": "0.20mm Standard-50 @Ender 3",
     "outer_wall_speed": "50",
     "print_settings_id": "0.20mm Standard-50 @Ender 3",

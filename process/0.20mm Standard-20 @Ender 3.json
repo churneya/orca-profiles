@@ -15,6 +15,7 @@
     "initial_layer_speed": "20",
     "inner_wall_speed": "20",
     "internal_solid_infill_speed": "20",
+    "min_skirt_length": "50",
     "is_custom_defined": "0",
     "name": "0.20mm Standard-20 @Ender 3",
     "outer_wall_speed": "20",

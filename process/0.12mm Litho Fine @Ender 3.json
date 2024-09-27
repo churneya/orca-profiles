@@ -17,6 +17,7 @@
     "internal_solid_infill_line_width": "0",
     "internal_solid_infill_speed": "40",
     "is_custom_defined": "0",
+    "min_skirt_length": "50",
     "layer_height": "0.12",
     "line_width": "0.3",
     "name": "0.12mm Litho Fine @Ender 3",

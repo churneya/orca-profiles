@@ -16,6 +16,7 @@
     "internal_solid_infill_speed": "40",
     "is_custom_defined": "0",
     "layer_height": "0.16",
+    "min_skirt_length": "50",
     "name": "0.16mm Litho Normal @Ender 3",
     "outer_wall_speed": "20",
     "print_settings_id": "0.16mm Litho Normal @Ender 3",

@@ -17,6 +17,7 @@
     "is_custom_defined": "0",
     "layer_height": "0.24",
     "line_width": "0.5",
+    "min_skirt_length": "50",
     "name": "0.24mm Tech @Ender 3",
     "outer_wall_line_width": "0",
     "outer_wall_speed": "80",
