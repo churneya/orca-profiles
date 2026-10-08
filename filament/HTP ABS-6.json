@@ -18,7 +18,10 @@
 		"Direct Drive Standard"
 	],
 	"filament_flow_ratio": [
-		"1"
+		"0.96"
+	],
+	"filament_max_volumetric_speed": [
+		"6"
 	],
 	"filament_settings_id": [
 		"HTP ABS-6"
@@ -36,16 +39,16 @@
 	"inherits": "Generic ABS @Qidi Q2 0.4 nozzle",
 	"name": "HTP ABS-6",
 	"nozzle_temperature": [
-		"290"
+		"280"
 	],
 	"nozzle_temperature_initial_layer": [
-		"290"
+		"280"
 	],
 	"overhang_fan_speed": [
 		"30"
 	],
 	"pressure_advance": [
-		"0"
+		"0.022"
 	],
 	"version": "2.4.0.6"
 }
