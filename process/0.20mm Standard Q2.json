@@ -1,0 +1,19 @@
+{
+	"brim_type": "no_brim",
+	"elefant_foot_compensation": "0",
+	"enable_prime_tower": "0",
+	"filename_format": "{input_filename_base}_{layer_height}mm_{filament_type[0]}_{print_time}_{total_weight}g_[total_cost]RUB.gcode",
+	"from": "User",
+	"gcode_label_objects": "1",
+	"inherits": "0.20mm Standard @Qidi Q2",
+	"name": "0.20mm Standard Q2",
+	"print_extruder_id": [
+		"1"
+	],
+	"print_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"print_settings_id": "0.20mm Standard Q2",
+	"version": "2.4.0.6",
+	"wall_generator": "arachne"
+}
